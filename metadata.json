@@ -1,0 +1,6 @@
+{
+  "name": "Bapuji Super Speciality Dental Hospital",
+  "description": "Professional bilingual dental care hospital in Nizamabad, Telangana by Dr. Balaram J. Specialising in orthodontics, implants, painless root canal treatments, and cosmetic dentistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
